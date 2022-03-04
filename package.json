@@ -1,0 +1,23 @@
+{
+  "name": "webhookclient",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    ".": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OrionDevInfo/WebhookClient.git"
+  },
+  "keywords": [],
+  "author": "ORION",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OrionDevInfo/WebhookClient/issues"
+  },
+  "homepage": "https://github.com/OrionDevInfo/WebhookClient#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
